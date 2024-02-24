@@ -1,0 +1,60 @@
+sample1_24-02-2024_20-19-19,70_30-Blance-tf-KNN,"              precision    recall  f1-score   support
+
+         neg       0.46      0.75      0.57         8
+         neu       0.00      0.00      0.00         4
+         pos       0.50      0.25      0.33         4
+
+    accuracy                           0.44        16
+   macro avg       0.32      0.33      0.30        16
+weighted avg       0.36      0.44      0.37        16
+",sample1_24-02-2024_20-19-1970_30-Blance-tf-KNN.pkl,active,sample1vector_24-02-2024_20-19-1970_30-Blance-tf-KNN.pkl
+sample1_24-02-2024_20-19-19,70_30-Blance-tf-Naive Bayes,"              precision    recall  f1-score   support
+
+         neg       1.00      0.75      0.86         8
+         neu       0.33      0.25      0.29         4
+         pos       0.29      0.50      0.36         4
+
+    accuracy                           0.56        16
+   macro avg       0.54      0.50      0.50        16
+weighted avg       0.65      0.56      0.59        16
+",sample1_24-02-2024_20-19-1970_30-Blance-tf-Naive Bayes.pkl,not_active,sample1vector_24-02-2024_20-19-1970_30-Blance-tf-Naive Bayes.pkl
+sample1_24-02-2024_20-19-19,70_30-Blance-Boolean-KNN,"              precision    recall  f1-score   support
+
+         neg       0.50      1.00      0.67         8
+         neu       0.00      0.00      0.00         4
+         pos       0.00      0.00      0.00         4
+
+    accuracy                           0.50        16
+   macro avg       0.17      0.33      0.22        16
+weighted avg       0.25      0.50      0.33        16
+",sample1_24-02-2024_20-19-1970_30-Blance-Boolean-KNN.pkl,not_active,sample1vector_24-02-2024_20-19-1970_30-Blance-Boolean-KNN.pkl
+sample1_24-02-2024_20-19-19,70_30-Blance-Boolean-Naive Bayes,"              precision    recall  f1-score   support
+
+         neg       1.00      0.50      0.67         8
+         neu       0.50      0.50      0.50         4
+         pos       0.38      0.75      0.50         4
+
+    accuracy                           0.56        16
+   macro avg       0.62      0.58      0.56        16
+weighted avg       0.72      0.56      0.58        16
+",sample1_24-02-2024_20-19-1970_30-Blance-Boolean-Naive Bayes.pkl,active,sample1vector_24-02-2024_20-19-1970_30-Blance-Boolean-Naive Bayes.pkl
+sample1_24-02-2024_20-20-01,80_20-tf-Naive Bayes,"              precision    recall  f1-score   support
+
+         neg       0.00      0.00      0.00         2
+         neu       0.00      0.00      0.00         5
+         pos       0.12      0.50      0.20         2
+
+    accuracy                           0.11         9
+   macro avg       0.04      0.17      0.07         9
+weighted avg       0.03      0.11      0.04         9
+",sample1_24-02-2024_20-20-0180_20-tf-Naive Bayes.pkl,not_active,sample1vector_24-02-2024_20-20-0180_20-tf-Naive Bayes.pkl
+sample1_24-02-2024_20-20-01,80_20-Boolean-Naive Bayes,"              precision    recall  f1-score   support
+
+         neg       0.00      0.00      0.00         2
+         neu       0.00      0.00      0.00         5
+         pos       0.12      0.50      0.20         2
+
+    accuracy                           0.11         9
+   macro avg       0.04      0.17      0.07         9
+weighted avg       0.03      0.11      0.04         9
+",sample1_24-02-2024_20-20-0180_20-Boolean-Naive Bayes.pkl,active,sample1vector_24-02-2024_20-20-0180_20-Boolean-Naive Bayes.pkl
